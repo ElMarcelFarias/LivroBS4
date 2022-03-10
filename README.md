@@ -3,6 +3,14 @@
 Atividade realizada referente ao livro: Bootstrap 4 - Conheça a biblioteca front end mais utilizada no mundo by Casa do Codigo (z-lib.org) <br>
 Tecnologias utilizadas (HTML5/CSS3/BOOTSTRAP4)<br>
 Muito obrigado😊 <br>
+<hr>
+Onde está o projeto?
+
+![local](https://user-images.githubusercontent.com/92833379/157721025-67267d4f-6255-45a4-ba77-452b58eb4292.png)
+
+<hr>
+
+Algumas prints do projeto:
 
 
 SCREEN (1/5)<br>
