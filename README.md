@@ -1,7 +1,6 @@
 # livro-bootstrap4
 
-<p>Atividade realizada referente ao livro: Bootstrap 4 - Conheça a biblioteca front end mais utilizada no mundo by Casa do Codigo (z-lib.org)</p> <br>
-<hr>
+<p>Atividade realizada referente ao livro: Bootstrap 4 - Conheça a biblioteca front end mais utilizada no mundo by Casa do Codigo (z-lib.org)</p> 
 <h1>Tecnologias utilizadas:</h1> 
 <ul>
   <li>HTML5</li>
