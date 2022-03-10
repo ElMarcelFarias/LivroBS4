@@ -7,14 +7,12 @@
   <li>CSS3</li>
   <li>BOOTSTRAP 4</li>
 </ul>
-<hr>
-
-<br>
 Muito obrigado😊
-<br>
 <hr>
+<br>
 
-Onde está o projeto?
+
+<h1>Onde está o projeto?</h1>
 ![local](https://user-images.githubusercontent.com/92833379/157721025-67267d4f-6255-45a4-ba77-452b58eb4292.png)
 <hr>
 
