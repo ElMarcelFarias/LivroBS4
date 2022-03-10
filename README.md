@@ -20,23 +20,23 @@ Muito obrigado😊
 <h1>Algumas prints do projeto:</h1>
 
 <h3>SCREEN (1/5)</h3><br>
-![screen1](https://user-images.githubusercontent.com/92833379/157722690-a9747cd9-aba7-4d38-9476-f18d1f274258.png)
+<img src="https://user-images.githubusercontent.com/92833379/157722690-a9747cd9-aba7-4d38-9476-f18d1f274258.png"/>
 
 
 
 <h3>SCREEN (2/5)</h3><br>
-![screen2](https://user-images.githubusercontent.com/92833379/157722720-2e2e2ee2-115e-43d4-a012-2b1599a9ed12.png)
+<img src="https://user-images.githubusercontent.com/92833379/157722720-2e2e2ee2-115e-43d4-a012-2b1599a9ed12.png"/>
 
 
 <h3>SCREEN(3/5)</h3><br>
-![screen3](https://user-images.githubusercontent.com/92833379/157722769-c5673b3f-0623-4a59-8aca-9e2507a8159d.png)
+<img src="https://user-images.githubusercontent.com/92833379/157722769-c5673b3f-0623-4a59-8aca-9e2507a8159d.png"/>
 
 
 <h3>SCREEN(4/5)</h3><br>
-![screen4](https://user-images.githubusercontent.com/92833379/157722799-400e966d-8b4c-4b9d-bc4f-41f87b9c1b9c.png)
+<img src="https://user-images.githubusercontent.com/92833379/157722799-400e966d-8b4c-4b9d-bc4f-41f87b9c1b9c.png"/>
 
 
 
 <h3>SCREEN(5/5)</h3><br>
-![screen5](https://user-images.githubusercontent.com/92833379/157722828-593b5c1b-ec7e-487c-8a9f-8f91ee05f0d4.png)
+<img src="https://user-images.githubusercontent.com/92833379/157722828-593b5c1b-ec7e-487c-8a9f-8f91ee05f0d4.png"/>
 
